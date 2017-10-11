@@ -40,10 +40,14 @@ platform :ios, '8.0'
 use_frameworks!
 pod 'swiftScan', '~> 1.0.9'
 ```
+### Carthage安装
 
+```ruby
+github "ceeyang/swiftScan" "new-version"
+```
 
 ### 手动安装 
-下载后将Source文件夹copy到工程即可
+下载后将Source文件夹copy到工程即可，如果项目使用 swift4.0,推荐使用 carthage 方式安装；
 
 
 ### 版本

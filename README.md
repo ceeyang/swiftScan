@@ -50,7 +50,8 @@ github "ceeyang/swiftScan" "new-version"
 
 
 ### manually
-download and copy the Source folder to your project
+download and copy the Source folder to your project.
+if your project is depend on swift4.0,we suggest you use this framework with Carthage.
 
 
 
